@@ -25,5 +25,5 @@ Some recent projects I've built
 
 📫 How to reach me: jordansiemens93@gmail.com
 
-:link: https://www.linkedin.com/in/jordan-siemens/
+:link: [My LinkedIn](https://www.linkedin.com/in/jordan-siemens/)
 
