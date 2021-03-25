@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Bonjour Hola Hallo Ciao
 
 My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I am from Canada and have a diverse professional and educational background in the arts, businesses and most recently web development.
 
@@ -24,7 +24,7 @@ My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I a
 
 ### Get In Touch
 
-📫 How to reach me: jordansiemens93@gmail.com
+📫 jordansiemens93@gmail.com
 
 :link: [My LinkedIn](https://www.linkedin.com/in/jordan-siemens/)
 
