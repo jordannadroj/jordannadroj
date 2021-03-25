@@ -16,7 +16,7 @@ Some recent projects I've built
 
 :construction: [HandyBee](https://www.handybee.me/) - A digital network to search for local handy people to help with your home improvements. Built on Ruby in Rails.
 
-:bike: [Bikey Bee](https://airbnb-jordannadroj.herokuapp.com/) - An Airbnb clone but a marketplace to renting out Bicycles. Build on Ruby on Rails
+:bike: [Bikey Bee](https://airbnb-jordannadroj.herokuapp.com/) - A marketplace for renting out Bicycles. Build on Ruby on Rails
 
 :cocktail: [Mister Cocktail](https://rails-mister-cocktail-470.herokuapp.com/) - A cocktail library anyone can conribute to. Built on Ruby on Rails
 
