@@ -12,7 +12,7 @@ My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I a
 
 ---------------------
 
-Some recent projects I've built 
+### Some recent projects I've built 
 
 :construction: [HandyBee](https://www.handybee.me/) - A digital network to search for local handy people to help with your home improvements. Built on Ruby in Rails.
 
@@ -22,6 +22,7 @@ Some recent projects I've built
 
 ----------------------
 
+### Get In Touch
 
 📫 How to reach me: jordansiemens93@gmail.com
 
