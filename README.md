@@ -6,11 +6,21 @@ My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I a
 
 :computer: My experience is in Ruby, Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, and Heroku
 
+<div display="flex">
+  <img height="32" width="32" src="images/ruby">
+  <img height="32" width="32" src="images/html.svg">
+  <img height="32" width="32" src="images/css3.eps">
+  <img height="32" width="32" src="images/javascript.svg">
+  <img height="32" width="32" src="images/rails.svg">
+  <img height="32" width="32" src="images/github.svg">
+  <img height="32" width="32" src="images/postgresql.svg">
+  <img height="32" width="32" src="images/heroku.svg">
+</div>
+
 🌱 I’m currently developing my coding skills and working on personal projects to forge them
 
 🤔 I’m incredibly curious and always love a good challenge
 
-<img src="ruby-seeklogo.com.svg">
 
 ---------------------
 
