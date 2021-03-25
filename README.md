@@ -10,9 +10,11 @@ My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I a
 
 🤔 I’m incredibly curious and always love a good challenge
 
+<img src="ruby-seeklogo.com.svg">
+
 ---------------------
 
-### Some recent projects I've built 
+### Some recent projects I've built
 
 :construction: [HandyBee](https://www.handybee.me/) - A digital network to search for local handy people to help with your home improvements. Built on Ruby in Rails.
 
