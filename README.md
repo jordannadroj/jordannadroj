@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan Siemens</h1>
+<h1 align="center">Hi, I'm Jordan Siemens</h1>
 <h3 align="center">My name is Jordan Siemens and I'm a Fullstack web developer based in Berlin. I am from Canada and have a diverse professional and educational background in the arts, businesses and most recently web development.</h3>
 
 
