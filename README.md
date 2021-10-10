@@ -4,7 +4,7 @@
 
 :man_student:	 I'm a recent graduate from [Le Wagon's](https://www.lewagon.com/) fullstack web development bootcamp
 
-:computer: My experience is in Ruby, Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, postgreSQL, git, GitHub, and Heroku
+:computer: Ruby | Ruby on Rails | HTML | CSS | Bootstrap | JavaScript | jQuery | SQL | postgreSQL | git | GitHub | Heroku
 
 <div display="flex" align="center">
   <img height="32" width="32" src="images/ruby.svg">
