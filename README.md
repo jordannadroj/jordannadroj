@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jordan Siemens</h1>
-<h3 align="center">I'm a Fullstack web developer based in Berlin. I am from Canada and have a diverse professional and educational background in the arts, business and most recently web development.</h3>
+<h3 align="center">I'm a Fullstack developer based in Berlin. I am from Canada and have a diverse professional and educational background in the arts, business and most recently web development.</h3>
 
 
 :man_student:	 I'm a recent graduate from [Le Wagon's](https://www.lewagon.com/) fullstack web development bootcamp
@@ -18,12 +18,6 @@
 </div>
 
 <br>
-
-🌱 I’m currently developing my coding skills and working on personal projects to forge them
-
-🤔 I’m incredibly curious and always love a good challenge
-
-
 <hr>
 
 ### Some recent projects I've built
@@ -34,7 +28,7 @@
 
 :cocktail:  [Mister Cocktail](https://rails-mister-cocktail-470.herokuapp.com/) - A cocktail library anyone can conribute to. Built on Ruby on Rails
 
-:capital_abcd:	[Longest Word Game](https://github.com/jordannadroj/rails-longest-word-game) - A simple word game. Built on Ruby on Rails
+:art: [Cardboard Project](https://www.cardboardproject.com/) - A website made for Employ to Empower's digital gallery
 <hr>
 
 ### Get In Touch
